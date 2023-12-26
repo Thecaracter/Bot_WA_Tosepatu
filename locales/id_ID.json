@@ -1,0 +1,8 @@
+{
+    "intro": "Selamat datang Di Tosepatu",
+    "template.menu": "Ketik angka *{{number}}* : untuk *{{menu}}*",
+    "menu.daftarHarga": "🧰 Daftar Harga",
+    "menu.cekCucian": "👟 Cek Cucian",
+    "daftarHargaTemplate": "Daftar Harga Cuci Sepatu di Tosepatu\n\nCuci Kering: Rp 10.000\nCuci Busa : Rp 15.000\nCuci Kering + Busa : Rp 20.000\nCuci Kering + Busa + Pewangi : Rp 25.000\n\n*Harga diatas belum termasuk ongkos kirim*",
+    "header.cekCucian": "👟 Beriku Daftar Cucian Anda"
+}
